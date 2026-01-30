@@ -214,6 +214,10 @@ Role: Application Developer
 
 ## 📚 Professional Development
 
+`2026`
+__AI Engineer Agentic Track: The Complete Agent & MCP Course__, Udemy <br>
+[Reference: UC-446ba007-ffe4-49bd-bc0c-51cf3c24595f](https://www.udemy.com/certificate/UC-446ba007-ffe4-49bd-bc0c-51cf3c24595f/)
+
 `2025`
 __Terraform: The Complete Guide__, Udemy <br>
 [Reference: cUC-69464829-33d5-457a-9a64-c766c35d3aaa](https://www.udemy.com/certificate/UC-69464829-33d5-457a-9a64-c766c35d3aaa/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
