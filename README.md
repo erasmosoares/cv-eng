@@ -40,6 +40,8 @@ I prioritize open dialogue, transparency, and respect; I believe these are the k
 **Achievements:**
 *   **Leadership:** Rapidly evolved into a technical leader, co-presenting architecture reviews.
 *   **Security Culture:** Established a proactive application security culture within the team.
+*   **Certification:** Parcours champions de sécurité - iA / Security champions learning path - iA.
+  [TryHackMe Certificate: UC-eef27311-9890-4db7-8b01-136e338a6d06](https://codewithmosh.com/courses/955852/certificate)
 
 ---
 
