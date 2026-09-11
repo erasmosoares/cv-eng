@@ -41,7 +41,6 @@ I am also exploring AI-enabled software development and agentic technologies thr
 *   Collaborate cross-functionally with Product, Architecture, Security, DevOps, and QA to drive technical decisions and deliver maintainable solutions.
 
 **Achievements:**
-*   **Technical Leadership:** Contributed to architecture reviews and technical decisions across Product, Architecture, Security, DevOps, and QA.
 *   **Security Leadership:** Helped establish and promote a proactive application-security culture through the OWASP Security Champion role.
 *   **Security Development:** Completed the [iA Security Champions learning path](https://tryhackme.com/certificate/THM-1FQKA5DWOP).
 
