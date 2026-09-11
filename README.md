@@ -1,10 +1,12 @@
 # Erasmo Soares
 
-**Pragmatic Software Engineer** with over 17 years of experience in designing and delivering innovative solutions. I have worked on projects in healthcare, finance, and education, leveraging agile methodologies and modern technologies.
+**Senior Software Engineer | .NET & C# | Azure | Software Architecture | Distributed Systems | AI | Technical Leadership**
 
-I have collaborated with major players such as Samsung TV and Motorola Solutions. Holding a Master's degree in Software Engineering, I am curious about languages and cultures. I am a continuous learner and enjoy sharing my knowledge.
+**Senior Software Engineer** with 18+ years of experience delivering software across insurance, government, healthcare, finance, and education. I specialize in designing and building secure, scalable backend and cloud solutions, with strong experience in C#, .NET, Microsoft Azure, distributed systems, REST APIs, messaging, SQL, Terraform, CI/CD, and Docker.
 
-I prioritize open dialogue, transparency, and respect; I believe these are the keys to effective team collaboration.
+Throughout my career, I have taken on responsibilities beyond implementation, contributing to software architecture, technical design and decision-making, modernization initiatives, application security, observability, infrastructure automation, and engineering standards. I have also worked as a Software Architect and Lead Developer, collaborated across distributed teams, and mentored developers.
+
+I am also exploring AI-enabled software development and agentic technologies through personal projects, building on my backend and cloud engineering background.
 
 [Email](mailto:erasmosaraujo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/erasmosoares/) / [GitHub](https://github.com/erasmosoares/)
 
@@ -14,10 +16,12 @@ I prioritize open dialogue, transparency, and respect; I believe these are the k
 
 | Category | Skills Details |
 | :--- | :--- |
-| **Methodologies** | DevOps, Agile (Scrum, SAFe, Lean), CI/CD, TDD, BDD, DDD, Clean Architecture, Microservices, Event-Driven Architecture, BPMN, SOLID, MVC, MVVM, OOP, UML, SaaS, PaaS, IaaS, GRASP, DRY, n-tier, AOS, Serverless. |
-| **Languages & Frameworks** | **C# (.NET Core / Framework)**, JavaScript, TypeScript, Python, Go, Node.js, React Native, Angular, Entity Framework, JQuery, Bootstrap, HTML5, CSS3, Visual Studio, PowerShell, VB.NET, Java EE, C++, Unity 3D. |
-| **Cloud & DevOps** | **Microsoft Azure** (Functions, B2C, Service Bus, Blob Storage, App Services, AD, Key Vault, Monitor, Event Grid, DevOps, ML), Docker, Kubernetes, Helm, Terraform, Snyk, Dynatrace, SonarQube, Git, GitHub, GitLab. |
-| **Databases** | SQL Server, Oracle (9i, 10g, 11g, 12c), PL/SQL, CockroachDB, MongoDB, CosmosDB, NHibernate, LINQ. |
+| **Core** | **C#, .NET, Azure, Software Architecture, Distributed Systems, Technical Leadership** |
+| **Backend** | ASP.NET, .NET Core, REST APIs, Messaging, Microservices, Entity Framework, Dapper, SignalR |
+| **Cloud & DevOps** | **Microsoft Azure** (App Service, Functions, Service Bus, Blob Storage, B2C, Key Vault, Monitor, Application Insights), Terraform, Docker, Kubernetes, CI/CD, Azure DevOps, Snyk, Dynatrace, SonarQube, Git, GitHub, GitLab |
+| **AI & Agentic Development** | **AI-enabled software development, Agents SDK, MCP, Python, Machine Learning, NLP, OCR** |
+| **Engineering** | Clean Architecture, SOLID, DDD, TDD, BDD, Event-Driven Architecture, Observability, Application Security, Agile, Scrum, SAFe |
+| **Data** | SQL Server, Oracle, PL/SQL, MongoDB, Cosmos DB, CockroachDB, LINQ |
 
 ---
 
@@ -28,19 +32,18 @@ I prioritize open dialogue, transparency, and respect; I believe these are the k
 **IA - Industrial Alliance (via Cofomo)**
 **Senior Developer - OWASP Security Champion** | `June 2025 – Present` | Quebec
 
-**Project Description:** Participating in the design, development, and integration of solutions within a financial environment.
+**Project Description:** Design, development, and integration of secure software solutions within an insurance and financial environment.
 
 **Key Responsibilities:**
-*   Analyze business needs and translate them into robust technical solutions.
-*   Serve as the primary liaison between development and security teams (Security Champion).
-*   Review code and designs to identify and mitigate vulnerabilities (OWASP).
-*   Act as a point of contact for incidents, audits, and compliance.
-*   Participate actively in PI Planning and Agile/SAFe ceremonies.
+*   Partner with development teams and Product Owners to design, build, and integrate software solutions.
+*   Contribute to infrastructure-as-code and CI/CD pipeline practices, supporting secure, repeatable deployments of .NET services across containerized environments.
+*   Serve in an OWASP Security role, helping establish and promote a proactive application-security culture within the team.
+*   Collaborate cross-functionally with Product, Architecture, Security, DevOps, and QA to drive technical decisions and deliver maintainable solutions.
 
 **Achievements:**
-*   **Leadership:** Rapidly evolved into a technical leader, co-presenting architecture reviews.
-*   **Security Culture:** Established a proactive application security culture within the team.
-*   **Certification:** [TryHackMe Reference](https://tryhackme.com/certificate/THM-1FQKA5DWOP) Parcours champions de sécurité - iA / Security champions learning path - iA.
+*   **Technical Leadership:** Contributed to architecture reviews and technical decisions across Product, Architecture, Security, DevOps, and QA.
+*   **Security Leadership:** Helped establish and promote a proactive application-security culture through the OWASP Security Champion role.
+*   **Security Development:** Completed the [iA Security Champions learning path](https://tryhackme.com/certificate/THM-1FQKA5DWOP).
 
 ---
 
@@ -49,18 +52,18 @@ I prioritize open dialogue, transparency, and respect; I believe these are the k
 **OQLF - Office québécois de la langue française (via Cofomo)**
 **Cloud Developer** | `August 2024 – June 2025` | Quebec
 
-**Project Description:** Design of a high-traffic cloud-native platform for linguistic management.
+**Project Description:** Design and delivery of a scalable, resilient, high-traffic cloud-native platform for linguistic management.
 
 **Key Responsibilities:**
-*   Designed and implemented cloud solutions on Microsoft Azure (scalability and resilience).
-*   Developed and managed CI/CD pipelines in Azure DevOps.
-*   Automated infrastructure provisioning (IaC) via Terraform.
-*   Configured Azure B2C for secure identity management.
-*   Supported and mentored junior developers.
+*   Designed and implemented a document repository service using Azure Service Bus for message flows and Azure Blob Storage for document storage.
+*   Designed and delivered scalable, resilient cloud solutions on Microsoft Azure.
+*   Configured core Azure services, including App Service and Azure B2C authentication.
+*   Acted as principal backend developer, defining backend architecture and technical direction for a high-traffic public-facing platform built from the ground up.
+*   Automated infrastructure provisioning and CI/CD delivery through Azure DevOps while mentoring developers.
 
 **Achievements:**
-*   **Backend Leader:** Complete backend architecture for a high-traffic platform (Daily Active Users).
-*   **Innovation:** Implemented a document repository service using Service Bus and Blob Storage.
+*   **Backend Architecture:** Defined the backend architecture and technical direction for a high-traffic public-facing platform built from the ground up.
+*   **Cloud Solution:** Designed and implemented a scalable document repository using Azure Service Bus and Blob Storage.
 
 ---
 
@@ -69,18 +72,18 @@ I prioritize open dialogue, transparency, and respect; I believe these are the k
 **MJQ - Ministry of Justice (via Cofomo)**
 **Senior Developer - Lexius Program** | `April 2022 – August 2024` | Quebec
 
-**Project Description:** Modernization of the Lexius ecosystem for secure judicial information sharing.
+**Project Description:** Cloud-based modernization of the Lexius ecosystem for secure judicial information sharing and sensitive legal data.
 
 **Key Responsibilities:**
-*   Designed and developed solutions using Azure cloud technologies.
-*   Collaborated with Product Owners to align technical solutions with business needs.
-*   Improved technical architecture documentation.
-*   Maintained and enhanced monitoring (Azure Monitor, Application Insights).
-*   Broke down user stories and conducted rigorous code reviews.
+*   Refactored legacy Entity Framework transaction handling to enforce atomicity and reduce orphaned records in justice-system data.
+*   Implemented distributed transaction management for a microservices-based API project handling sensitive legal information.
+*   Designed cloud-based modernization solutions in collaboration with Product Owners and Architects.
+*   Maintained production observability using Azure Monitor and Application Insights.
+*   Improved architecture documentation and mentored team members.
 
 **Achievements:**
-*   **Optimization:** Drastically reduced orphaned data by implementing transaction atomicity in Entity Framework.
-*   **Feedback:** Received excellent evaluations for mentorship and operational efficiency.
+*   **Data Integrity:** Refactored Entity Framework transaction handling to enforce atomicity and reduce orphaned records.
+*   **Distributed Systems:** Implemented distributed transaction management for a microservices-based API handling sensitive legal information.
 
 ---
 
@@ -92,14 +95,14 @@ I prioritize open dialogue, transparency, and respect; I believe these are the k
 **Project Description:** Adaptation of mandatory billing for the restaurant sector (Sales Recording System - SRS).
 
 **Key Responsibilities:**
-*   Analyzed and programmed tasks according to strict Revenu Québec standards.
-*   Participated in backlog estimation.
-*   Applied TDD (Test Driven Development) practices to ensure quality.
-*   Developed Web services allowing secure transaction consultation.
+*   Implemented real-time communication with SignalR in a mobile web application following a successful proof of concept.
+*   Improved database-query performance by decomposing complex queries into efficient filters, resolving a long-standing performance issue.
+*   Broke down user stories into development tasks and participated in code reviews and shared code ownership.
+*   Applied Test-Driven Development to strengthen solution reliability.
 
 **Achievements:**
-*   **SignalR:** Implemented real-time communication in a mobile web environment.
-*   **Performance:** Optimized complex Oracle queries, improving system fluidity.
+*   **Performance Optimization:** Resolved a long-standing database performance issue by decomposing complex queries into more efficient filters.
+*   **Real-Time Architecture:** Successfully introduced SignalR-based real-time communication following a proof of concept.
 
 ---
 
@@ -108,16 +111,17 @@ I prioritize open dialogue, transparency, and respect; I believe these are the k
 **CHU de Québec - Université Laval (via Cofomo)**
 **Software Architect - CDO-Cristal-Net** | `April 2019 – December 2020` | Quebec
 
-**Project Description:** Computerized Clinical Solution (DCI) for patient record management.
+**Project Description:** Clinical information system (DCI) supporting patient-record management within the Cristal-Net solution.
 
 **Key Responsibilities:**
-*   Conducted positioning studies and Proof of Concepts (PoC).
-*   Determined hardware and software needs to optimize the Cristal-Net solution.
-*   Implemented programming standards and ensured architectural robustness.
+*   Led proofs of concept that translated healthcare technology concepts into practical implementation options.
+*   Evaluated technologies and contributed to architecture decisions with architects and DBAs.
+*   Established programming standards and supported architectural robustness for clinical systems.
+*   Developed PowerShell automation scripts and infrastructure tooling to improve team efficiency and deployment practices.
 
 **Achievements:**
-*   **Automation:** Developed PowerShell scripts and IaaS solutions to accelerate deployments.
-*   **Collaboration:** Worked jointly with DBAs on complex data structures.
+*   **Architecture & Innovation:** Led technology evaluations and proofs of concept that helped translate healthcare technology concepts into practical implementation options.
+*   **Automation:** Developed PowerShell and infrastructure tooling that improved development and deployment efficiency.
 
 ---
 
@@ -126,58 +130,65 @@ I prioritize open dialogue, transparency, and respect; I believe these are the k
 **Motorola Solutions (via CESAR)**
 **Software Engineer** | `March 2015 – April 2019` | Brazil
 
-**Project Description:** Development of high-frequency radio communication systems for public safety.
+**Project Description:** Development of high-frequency radio communication systems for public safety, with strict reliability requirements.
 
 **Key Responsibilities:**
-*   Multithreading and asynchronous programming (Task-based model).
-*   Designed reusable components and cross-platform application examples.
-*   Evaluated architecture via Motorola APIs.
+*   Served as lead developer working with teams in Brazil, the United States, and the United Kingdom.
+*   Delivered software for high-frequency radio projects with strict reliability requirements.
+*   Implemented asynchronous, task-based, and multithreaded programming to improve responsiveness and performance.
+*   Applied Test-Driven Development and developed reusable, cross-platform components.
 
 **Achievements:**
-*   **Reliability:** Successful delivery on mission-critical projects with extreme robustness requirements.
-*   **Global:** Lead developer for technical coordination between Brazil, USA, and UK.
+*   **Mission-Critical Software:** Delivered software for high-frequency radio projects with demanding reliability requirements.
+*   **Global Technical Leadership:** Served as lead developer coordinating technical work across teams in Brazil, the United States, and the United Kingdom.
 
 ---
 
 <img src="./assets/img/fiat-logo.png" width="100" alt="Fiat Chrysler"/>
 
 **Fiat Chrysler (via CESAR)**
-**Software Engineer** | `January 2015 – July 2015` | Brazil
+**Software Engineer** | `April 2014 – March 2015` | Brazil
 
-**Project Description:** "ToLigado" Voice Assistant for FIAT vehicles.
+**Project Description:** Proof-of-concept development for the "ToLigado" voice assistant and intelligent vehicle features for FIAT vehicles.
 
 **Key Responsibilities:**
-*   Created a PoC on Native Android and integrated with vehicle electronic components.
+*   Built proof-of-concept native Android features and intelligent dashboards for FIAT vehicles.
+*   Developed and tested solutions focused on device interoperability and system integration.
 
 ---
 
 <img src="./assets/img/samsung-logo.svg" width="100" alt="Samsung SIDIA"/>
 
 **Samsung SIDIA (via CESAR)**
-**Software Engineer** | `October 2010 – December 2014` | Brazil
+**Software Engineer** | `October 2010 – April 2014` | Brazil
 
-**Project Description:** Application development for Samsung Smart Hub (Smart TV).
+**Project Description:** Development of Android and entertainment applications for Samsung Smart Hub and Smart TV platforms.
 
 **Key Responsibilities:**
-*   Programmed game mechanics, physics, and UI using Unity 3D, C++, and NACL.
+*   Developed Android applications and entertainment tools for Samsung TV platforms in a multidisciplinary product team.
+*   Engineered game mechanics, physics, user interfaces, and mobile controls using C++, C#, JavaScript, Native Client, and Unity.
+*   Optimized memory management for low-memory Samsung TV devices.
 
 **Achievements:**
-*   Integrated over 30 applications into the global store.
+*   **Product Delivery:** Integrated more than 30 applications into the global Samsung store.
+*   **Performance:** Optimized memory management for Samsung TV platforms with constrained resources.
 
 ---
 
 <img src="./assets/img/mv-logo.png" width="100" alt="MV Systems"/>
 
 **MV Systems**
-**Jr. Analyst Programmer** | `August 2008 – September 2010` | Brazil
+**Jr. Analyst Programmer** | `August 2008 – October 2010` | Brazil
 
-**Project Description:** Massive migration of a hospital platform from Oracle Forms to Java Web.
+**Project Description:** Migration of a hospital platform from Oracle Forms and PL/SQL toward Java Web technologies.
 
 **Key Responsibilities:**
-*   PL/SQL development, Jasper Reports creation, and Java EE code maintenance.
+*   Supported the migration of legacy hospital-platform capabilities from PL/SQL to Java EE.
+*   Developed SQL queries and stored procedures for data retrieval and manipulation.
 
 **Achievements:**
-*   Obtained Oracle Developer Associate certification within the first few months.
+*   **Modernization:** Contributed to the migration of a hospital platform from Oracle Forms/PL/SQL toward Java EE.
+*   **Certification:** Earned the Oracle Developer Associate certification early in the role.
 
 ---
 
@@ -304,13 +315,12 @@ __Xamarin Forms: Build Native Cross-platform Apps with C#__, Udemy <br>
 - [Machine Learning in Action and Azure Automated Machine Learning](https://blog.gopenai.com/computer-vision-and-nlp-on-ocr-text-extraction-supervised-ml-d9b7c8de15a2) — Medium
 
 ### Sample Applications
-- [CoinFac](https://commerce-vercel-ten.vercel.app) — Financial management tool for Windows and Mac. (Website)
+- [Cognifold](https://github.com/erasmosoares/Cognifold) — Agentic AI aggregator exploring AI-enabled and agentic software development.
+- [CoinFac](https://commerce-vercel-ten.vercel.app) — Personal financial management application for Windows and Mac. (Website)
 
 ### Libraries & Contributions
 - [CoreEvents](https://www.nuget.org/packages/CoreEvents) — Event aggregator implementation for .NET Core, available on NuGet. (GitHub)
-- [Chakra UI Table Pagination](https://github.com/alepiumetti/chakra-ui-table-w-pagination-sort-search) — Table component for Chakra UI. (GitHub)
-- [Sample-node](https://github.com/erasmosoares/sample-node) — Template for RESTful API with Express and MongoDB. (GitHub)
-- [NLP Pay Stub Reader](https://github.com/erasmosoares/NLP-PSR) — Project for automatic information extraction from pay stubs. (GitHub)
+- [NLP Pay Stub Reader](https://github.com/erasmosoares/NLP-PSR) — Machine-learning project for automatic information extraction from pay stubs. (GitHub)
 
 ### Games
 - [Something in the Mist](https://spitzergamestudio.itch.io/something-in-the-mist) - Game inspired by the short story "The Mist" - Stephen King.
