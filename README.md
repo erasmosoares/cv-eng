@@ -1,7 +1,5 @@
 # Erasmo Soares
 
-**Senior Software Engineer | .NET & C# | Azure | Software Architecture | Distributed Systems | AI | Technical Leadership**
-
 **Senior Software Engineer** with 18+ years of experience delivering software across insurance, government, healthcare, finance, and education. I specialize in designing and building secure, scalable backend and cloud solutions, with strong experience in C#, .NET, Microsoft Azure, distributed systems, REST APIs, messaging, SQL, Terraform, CI/CD, and Docker.
 
 Throughout my career, I have taken on responsibilities beyond implementation, contributing to software architecture, technical design and decision-making, modernization initiatives, application security, observability, infrastructure automation, and engineering standards. I have also worked as a Software Architect and Lead Developer, collaborated across distributed teams, and mentored developers.
