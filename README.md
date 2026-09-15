@@ -1,5 +1,7 @@
 # Erasmo Soares
 
+**Senior Software Engineer | .NET & C# | Azure | Software Architecture | Distributed Systems | AI | Technical Leadership**
+
 **Senior Software Engineer** with 18+ years of experience delivering software across insurance, government, healthcare, finance, and education. I specialize in designing and building secure, scalable backend and cloud solutions, with strong experience in C#, .NET, Microsoft Azure, distributed systems, REST APIs, messaging, SQL, Terraform, CI/CD, and Docker.
 
 Throughout my career, I have taken on responsibilities beyond implementation, contributing to software architecture, technical design and decision-making, modernization initiatives, application security, observability, infrastructure automation, and engineering standards. I have also worked as a Software Architect and Lead Developer, collaborated across distributed teams, and mentored developers.
@@ -130,7 +132,7 @@ I am also exploring AI-enabled software development and agentic technologies thr
 **Project Description:** Development of high-frequency radio communication systems for public safety, with strict reliability requirements.
 
 **Key Responsibilities:**
-*   Served as lead developer working with teams in Brazil, the United States, and the United Kingdom.
+*   Served as Principal Developer based in Brazil, collaborating with cross-functional teams across the United States and United Kingdom.
 *   Delivered software for high-frequency radio projects with strict reliability requirements.
 *   Implemented asynchronous, task-based, and multithreaded programming to improve responsiveness and performance.
 *   Applied Test-Driven Development and developed reusable, cross-platform components.
@@ -318,10 +320,6 @@ __Xamarin Forms: Build Native Cross-platform Apps with C#__, Udemy <br>
 ### Libraries & Contributions
 - [CoreEvents](https://www.nuget.org/packages/CoreEvents) — Event aggregator implementation for .NET Core, available on NuGet. (GitHub)
 - [NLP Pay Stub Reader](https://github.com/erasmosoares/NLP-PSR) — Machine-learning project for automatic information extraction from pay stubs. (GitHub)
-
-### Games
-- [Something in the Mist](https://spitzergamestudio.itch.io/something-in-the-mist) - Game inspired by the short story "The Mist" - Stephen King.
-
 
 ## ⭐ Testimonials
 
